@@ -13,7 +13,7 @@ const nopnopwei = {
                 stocdy: "A tool that assists in trading Thai Stocks.",
                 twoKingdoms: "A 2D puzzle game that borrow Chess's mechanics."
               },
-  currentFavoriteProgrammingMeme: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━➤
+  currentFavoriteProgrammingMeme: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━➤
 }
 ```
 
