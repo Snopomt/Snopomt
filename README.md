@@ -1,20 +1,19 @@
 <h2 align="center">👋 Howdy World </h2>
 
 
-<img align='right' src="https://media.giphy.com/media/UtrTTc0Ama6RFDEcX6/giphy.gif" height="270px">
+<img align='right' src="https://media.giphy.com/media/UtrTTc0Ama6RFDEcX6/giphy.gif" height="250px">
 
 ```javascript
 const nopnopwei = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  languages: [English, Mandarin, Thai],
+  hobbies: [GameDev, Trading, Chess, Piano, Badminton],
+  interests: [Finance, Blockchain, Data_Analysis, Statistics],
+  workingOn: {
+                uwuily: "An Idle RPG Discord Bot.",
+                stocdy: "A tool that assists in trading Thai Stocks.",
+                twoKingdoms: "A 2D puzzle game that borrow Chess's mechanics."
+              },
+  currentFavoriteProgrammingMeme: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━➤
 }
 ```
 
