@@ -1,6 +1,27 @@
+<h2 align="center">Hello</h2>
+ 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+ 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+ 
+ 
  <div align="center">
  
- ![Cover](https://i.imgur.com/LhcgqDy.png)
+
+
  
  ## My GitHub Statistics
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nopnopwei&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FFE573&fire=FF8623&currStreakLabel=FF8623" />
