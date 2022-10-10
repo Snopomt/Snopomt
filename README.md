@@ -8,11 +8,11 @@ const nopnopwei = {
   languages: [English, Mandarin, Thai],
   hobbies: [GameDev, Trading, Chess, Piano, Badminton],
   interests: [Finance, Blockchain, Data_Analysis, Statistics],
-  workingOn: {
-                uwuily: "An Idle RPG Discord Bot.",
-                stocdy: "A tool that assists in trading Thai Stocks.",
-                twoKingdoms: "A 2D puzzle game that borrow Chess's mechanics."
-              },
+  projects: {
+              uwuily: "An Idle RPG Discord Bot.",
+              stocdy: "A tool that assists in trading Thai Stocks.",
+              twoKingdoms: "A 2D puzzle game that borrow Chess's mechanics."
+            },
   currentFavoriteProgrammingMeme: ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━➤
 }
 ```
