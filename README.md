@@ -1,7 +1,7 @@
 <h2 align="center">👋 Howdy World </h2>
 
 
-<img align='right' src="https://media.giphy.com/media/UtrTTc0Ama6RFDEcX6/giphy.gif" height="200px">
+<img align='right' src="https://media.giphy.com/media/UtrTTc0Ama6RFDEcX6/giphy.gif" height="220px">
 
 ```javascript
 const nopnopwei = {
